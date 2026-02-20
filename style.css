@@ -1,8 +1,9 @@
 body {
-  background-image: src"WhatsApp Image 2026-02-11 at 5.10.12 PM (1)"
+  background-image: url("WhatsApp Image 2026-02-11 at 5.10.12 PM (1).jpg");
   font-family: sans-serif;
   padding: 20px;
 }
+
 
 h1 {
   font-size: 40px;
