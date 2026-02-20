@@ -23,6 +23,9 @@ h1, h2, p {
 .menu {
   width: 80%;
   background-image: url("WhatsApp Image 2026-02-11 at 5.10.12 PM (1).jpeg");
+  background-size: cover;  /* Fills the container */
+  background-position: center;
+}
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
